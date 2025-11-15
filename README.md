@@ -126,6 +126,9 @@ Basic transmission-line models only — lacks advanced PCB/RF features like freq
 *For fast circuit-level checks or basic transmission-line experiments and academic use:
 → Use LTspice or any SPICE-based tool — simple, quick, and lightweight.
 
+
+
+
 # Conclusion
 Transmission-line analysis is highly dependent on selecting the right simulation environment, as each software package excels in a specific domain. Tools like PSCAD and EMTP-RV offer unparalleled accuracy for power-system transients, while MATLAB/Simulink provides a flexible platform for control-oriented studies and rapid prototyping. For high-frequency, RF, and microwave applications, solutions such as Keysight ADS, Ansys HFSS, and CST Studio Suite deliver the detailed electromagnetic insight required for advanced designs. Meanwhile, LTspice remains a reliable choice for fast, lightweight circuit-level checks.
 
